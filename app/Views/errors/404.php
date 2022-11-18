@@ -21,7 +21,7 @@
          <header class="header position-fixed">
             <div class="row">
                 <div class="col align-self-center text-center">
-                    <div class="logo-small">
+                    <div class="logo-small mt-3">
                         <img src="<?= base_url() ?>/public/assets/img/logo.png" alt="">
                         <h5>404 Not Found</h5>
                     </div>

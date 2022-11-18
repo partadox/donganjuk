@@ -130,11 +130,11 @@
                                 <div class="col align-self-center">
                                     <h6>Cara Order?</h6>
                                     <p class="size-12 text-muted">
-                                        Pilih daftar penjual, lihat menu yang tersedia langsung WA penjualnya.
+                                        Pilih daftar penjual, lihat menu yang tersedia, tekan tombol untuk copy nomor WA-nya.
                                     </p>
-                                    <!-- <div class="tag border-dashed border-opac">
-                                        <i class="bi bi-emoji-smile"> Selamat Menikmati</i>
-                                    </div> -->
+                                    <div class="tag border-dashed border-opac">
+                                        <i class="bi bi-whatsapp"> Nomor WA</i>
+                                    </div>
                                 </div>
                                 <div class="col-5 align-self-center ps-0">
                                     <img src="<?= base_url() ?>/public/assets/img/home.png" alt="" class="mw-100">
@@ -161,7 +161,7 @@
                                 </div>
                                 <div class="col-auto align-self-center ps-0">
                                     <p class="small mb-1 text-muted"><strong>Food</strong></p>
-                                    <p class="small"><strong>7</strong></p>
+                                    <p class="small"><strong>0</strong></p>
                                 </div>
                             </div>
                         </div>
@@ -182,7 +182,7 @@
                                 </div>
                                 <div class="col-auto align-self-center ps-0">
                                     <p class="small mb-1 text-muted"><strong>Drink</strong></p>
-                                    <p class="small"><strong>3</strong></p>
+                                    <p class="small"><strong>0</strong></p>
                                 </div>
                             </div>
                         </div>
@@ -202,11 +202,11 @@
                                     <div class="row mb-2">
                                         <div class="col">
                                             <p class="small text-muted mb-0">Pengunjung</p>
-                                            <p>3510</p>
+                                            <p>-</p>
                                         </div>
                                         <div class="col-auto text-end">
                                             <p class="small text-muted mb-2">Tanggal</p>
-                                            <p class="small">16 November 2022</p>
+                                            <p class="small"><?= $tgl ?></p>
                                         </div>
                                     </div>
                                 </div>

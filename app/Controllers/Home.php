@@ -47,8 +47,10 @@ class Home extends BaseController
 	public function index()
 	{
 		$this->visitor();
+		$tgl  = date("d M Y");
 		$data = [
 			'class_body' 		=> 'class="body-scroll" data-page="index"',
+			'tgl'				=> $tgl,
 		];
 		return view('index', $data);
 	}

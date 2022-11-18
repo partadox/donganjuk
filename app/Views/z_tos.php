@@ -21,12 +21,12 @@
 <!-- Header -->
 <header class="header position-fixed">
     <div class="row">
-        <div class="col-auto">
+        <div class="col-auto mt-3">
             <button class="btn btn-light btn-44 back-btn" onclick="window.location.replace('index');">
                 <i class="bi bi-arrow-left"></i>
             </button>
         </div>
-        <div class="col align-self-center text-center">
+        <div class="col align-self-center text-center mt-3">
             <div class="logo-small">
                 <img src="<?= base_url() ?>/public/assets/img/logo.png" alt="">
                 <h5>ToS</h5>
