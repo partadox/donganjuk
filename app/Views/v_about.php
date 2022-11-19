@@ -77,7 +77,7 @@
                     </a>
                     <br>
                     <br>
-                    <h6 class="text-center">&copy; www.artakusuma.com</h6>
+                    <h6 class="text-center">&copy; DO Nganjuk</h6>
                 </div>
             </div>
 
