@@ -39,7 +39,7 @@
         <!-- main page content -->
         <div class="main-container container">
             <p align="center">
-                Jika Anda memerlukan informasi lebih lanjut atau memiliki pertanyaan tentang disclaimer situs kami, jangan ragu untuk menghubungi kami melalui email di arta.kusuma07@gmail.com. <br><br>
+                Jika Anda memerlukan informasi lebih lanjut atau memiliki pertanyaan tentang disclaimer situs kami, jangan ragu untuk menghubungi kami melalui email di artakusuma@hotmail.com. <br><br>
 
                 Semua informasi di situs aplikasi DO Nganjuk diterbitkan dengan itikad baik dan hanya untuk tujuan informasi umum. DO Nganjuk tidak memberikan jaminan apa pun tentang kelengkapan, keandalan, dan keakuratan informasi. Segala tindakan yang Anda ambil atas informasi yang Anda temukan di aplikasi ini (DO Nganjuk), sepenuhnya merupakan risiko Anda sendiri. DO Nganjuk tidak akan bertanggung jawab atas segala kerugian dan/atau kerusakan sehubungan dengan penggunaan situs aplikasi kami.
                 Dengan menggunakan aplikasi kami, Anda dengan ini telah menyetujui   persyaratan penggunaan dari kami.

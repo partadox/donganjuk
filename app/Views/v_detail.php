@@ -66,7 +66,7 @@
                         <div class="col d-grid">
                                 <a class="mail-info">
                                     <i class="bi bi-whatsapp"></i>
-                                    <span style="margin-left: 10px;" class="mail-text" tooltip="Copy WA" tooltip-position="bottom"> 083851967325</span>
+                                    <span style="margin-left: 10px;" class="mail-text" tooltip="Copy WA" tooltip-position="bottom"> 08xxxx</span>
                                 </a>
                         </div>
                     </div>
@@ -86,7 +86,7 @@
                                 </div>
                                 <div class="col">
                                     <p class="text-muted size-12 mb-0"><strong>Food</strong></p>
-                                    <p>2</p>
+                                    <p>1</p>
                                 </div>
                             </div>
                         </div>
@@ -103,7 +103,7 @@
                                 </div>
                                 <div class="col">
                                     <p class="text-muted size-12 mb-0"><strong>Drink</strong></p>
-                                    <p>1</p>
+                                    <p>0</p>
                                 </div>
                             </div>
                         </div>

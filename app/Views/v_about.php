@@ -75,11 +75,6 @@
                         <i class="bi bi-pencil-square"></i>
                         <span style="margin-left: 10px;" class="mail-text" tooltip="Copy Link" tooltip-position="bottom"> intip.in/DaftarDONganjuk</span>
                     </a>
-                    <h5 class="mt-4 mb-2 text-center text-color-theme">Kontak</h5>
-                    <a class="mail-info mb-4">
-                        <i class="bi bi-whatsapp"></i>
-                        <span style="margin-left: 10px;" class="mail-text" tooltip="Copy WA" tooltip-position="bottom"> 083851967325</span>
-                    </a>
                     <br>
                     <br>
                     <h6 class="text-center">&copy; www.artakusuma.com</h6>

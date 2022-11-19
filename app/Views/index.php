@@ -100,7 +100,7 @@
                             <div class="row">
                                 <div class="col align-self-center ps-0" style="margin-left: 15px;">
                                     <p class="small mb-1"><strong>DO Nganjuk Versi 0.1</strong></p>
-                                    <p class="small">Paritsipasi anda sangat berarti. Masuk menu <strong><i>About</i></strong> untuk mendaftarkan produk anda.</p>
+                                    <p class="small">Masuk menu <strong><i>About</i></strong> untuk mendaftarkan produk anda.</p>
                                 </div>
                                 <div class="col-auto">
                                     <button class="btn btn-44 btn-default shadow-sm">
@@ -236,7 +236,7 @@
                         <div class="card-body">
                             <div class="row mb-5">
                                 <div class="col align-self-center">
-                                    <span class="tag">DO Tanjunganom</span>
+                                    <span class="tag">DO Ngronggot</span>
                                 </div>
                                 <div class="col-auto">
                                     <button class="btn btn-success text-white btn-44 rounded-circle shadow-sm">
